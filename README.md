@@ -10,7 +10,7 @@ Hi, I have 4 nodes and 2 launch files.
 # Square :
 
 1. move_square_server : ROS Server that makes turtlesim draw squares.
-2. move_square_server : ROS Client that request the server with arguments for side lenght and number of rotations.
+2. move_square_client : ROS Client that request the server with arguments for side lenght and number of rotations.
 
 # Launch Files
 
