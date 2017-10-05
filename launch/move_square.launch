@@ -1,0 +1,5 @@
+<launch> 
+  <node name="turtlesim" pkg="turtlesim" type="turtlesim_node" />
+  <node name="Client" pkg = "turtlesim_cleaner" type="move_square_client.py" output = "screen" />
+  <node name="Server" pkg = "turtlesim_cleaner" type="move_square_server.py" output = "screen" />
+ </launch>
