@@ -1,6 +1,6 @@
 # Turtlesim_cleaner
 
-Hi, I have 4 nodes and 2 launch files.
+Hi, this package contains 4 nodes + 2 launch files + 1 shell script that runs the two launch files consecutively. 
 
 # Circle :
 
