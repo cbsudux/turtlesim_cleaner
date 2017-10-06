@@ -13,6 +13,8 @@ def handle_move_circle(req):
 	radius = req.r
 
 	print "Your wish is my command"
+	print "If you want to quit and watch me draw squares, Ctl-c me"
+
 
 	vel_msg.linear.x = speed
 	vel_msg.linear.y = 0
